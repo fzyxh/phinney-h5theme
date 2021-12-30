@@ -10,5 +10,3 @@ Demonstration: https://uuz.moe
 **Found and open `lib/config.php`, then edit it.** 
 
 **Enjoy it.** 
-
-# test
