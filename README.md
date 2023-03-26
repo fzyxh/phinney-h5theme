@@ -1,6 +1,6 @@
-A HTML5 theme for https://phinney.top
+A HTML5 theme for https://phinney.top (Currently unavailable)
 
-Demonstration: https://uuz.moe
+Demonstration: https://uuz.moeCancel changes
 
 ## How to use
 `sudo apt install git` or `sudo yum install git`
